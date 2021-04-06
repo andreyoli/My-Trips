@@ -12,6 +12,10 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
+        <meta
+          name="google-site-verification"
+          content="laSkDk8VS2xKKFuq4nkr40oEe1eN_APOR9acKoHMVYo"
+        />
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
         <link rel="apple-touch-icon" href="favicon.ico" type="image/x-icon" />
         <link
